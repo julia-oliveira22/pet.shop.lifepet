@@ -28,4 +28,6 @@ h1 {color:#187418;
             width: 100%;
             box-sizing: border-box;
             padding: 2.5em 3em;
+            justify-content: center;
+            align-items: center;
         }
